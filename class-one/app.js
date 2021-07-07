@@ -3,4 +3,4 @@
 */
 // =========== TYPE ANNOTATION ========== //
 // ===> Variables
-var mateus = 'Mateus';
+var mensagem = 'Mateus';

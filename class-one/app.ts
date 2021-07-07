@@ -5,4 +5,4 @@
 // =========== TYPE ANNOTATION ========== //
 
 // ===> Variables
-let mateus: string = 'Mateus';
+let mensagem: string = 'Mateus';
