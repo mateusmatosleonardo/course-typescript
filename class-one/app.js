@@ -4,3 +4,4 @@
 // =========== TYPE ANNOTATION ========== //
 // ===> Variables
 var mensagem = 'Mateus';
+console.log(mensagem);

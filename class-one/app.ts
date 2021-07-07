@@ -6,3 +6,4 @@
 
 // ===> Variables
 let mensagem: string = 'Mateus';
+console.log(mensagem);
