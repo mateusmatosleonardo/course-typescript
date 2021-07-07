@@ -3,5 +3,8 @@
 */
 // =========== TYPE ANNOTATION ========== //
 // ===> Variables
-var mensagem = 'Mateus';
-console.log(mensagem);
+var mensage = 'Mateus';
+console.log(mensage);
+// ===> Arrays
+var person = ['Mateus', 'Luca', 'Vini'];
+console.log(person[1]);
