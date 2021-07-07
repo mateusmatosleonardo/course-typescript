@@ -28,3 +28,4 @@ function multNum(num1: number, num2:number){
 }
 
 console.log(multNum(4,20));
+
