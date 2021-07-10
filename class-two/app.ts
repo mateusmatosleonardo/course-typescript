@@ -19,7 +19,9 @@ console.log(pendingTtask);
 // => example two
 
 let done: boolean = false;
-    if(done){
+
+// ! = not //
+    if(!done){
         console.log("The task has been completed!!!");
     }else{
         console.log("Task not completed");
