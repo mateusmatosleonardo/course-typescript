@@ -10,6 +10,6 @@
 
 // => example one
 
-
+let taskCompleted: boolean = true;
 
 // => example two
