@@ -13,4 +13,7 @@
 let taskCompleted: boolean = true;
 let pendingTtask: boolean = false;
 
+console.log(taskCompleted);
+console.log(pendingTtask);
+
 // => example two
