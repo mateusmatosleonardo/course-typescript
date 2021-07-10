@@ -13,7 +13,8 @@ console.log(taskCompleted);
 console.log(pendingTtask);
 // => example two
 var done = false;
-if (done) {
+// ! = not //
+if (!done) {
     console.log("The task has been completed!!!");
 }
 else {
