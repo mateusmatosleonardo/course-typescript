@@ -11,5 +11,6 @@
 // => example one
 
 let taskCompleted: boolean = true;
+let pendingTtask: boolean = false;
 
 // => example two
