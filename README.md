@@ -36,3 +36,6 @@ tsc namefile.ts
 
 3 - right after your code is transcommerated
 
+## Timeline
+### class-one
+* type annotation
